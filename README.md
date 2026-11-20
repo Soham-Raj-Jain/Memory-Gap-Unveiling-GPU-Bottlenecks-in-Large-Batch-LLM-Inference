@@ -44,4 +44,4 @@ The paper challenges a common belief that large batches make LLM inference compu
 
 ## Reference
 
-Recasens, et al. "Mind the Memory Gap: Unveiling GPU Bottlenecks in Large-Batch LLM Inference." IEEE CLOUD 2025. arXiv:2503.08311.
+Recasens, et al. "Mind the Memory Gap: Unveiling GPU Bottlenecks in Large-Batch LLM Inference." IEEE CLOUD 2025. arXiv:2503.08311
