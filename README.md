@@ -12,7 +12,7 @@ The paper challenges a common belief that large batches make LLM inference compu
 
 ## Links
 
-- **Video walkthrough (YouTube):** YOUR_YOUTUBE_LINK
+- **Video walkthrough (YouTube):** https://youtu.be/bgfpTQYH8Ts
 - **Medium article:** https://medium.com/@sohamrajjain0007/bigger-batches-dont-make-llm-inference-compute-bound-i-was-surprised-too-251e79e92172?sharedUserId=sohamrajjain0007
 - **Original paper (arXiv):** https://arxiv.org/abs/2503.08311
 - **Authors' code:** https://github.com/FerranAgulloLopez/vLLMBatchingMemoryGap
